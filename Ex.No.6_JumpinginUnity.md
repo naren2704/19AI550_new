@@ -64,4 +64,3 @@ public class PlayerJump : MonoBehaviour
 
 ### Result:
 Thus the simple jumping behavior was implemented successfully.
-](https://github.com/Nachiyarr/19AI550_new/blob/main/Ex.No.5_PursueandEvade.md)
