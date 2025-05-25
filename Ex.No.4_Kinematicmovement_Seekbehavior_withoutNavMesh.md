@@ -1,7 +1,6 @@
 # Ex.No: 4  Implementation of Kinematic movement -seek behavior in Unity
                                                                             
-### REGISTER NUMBER : 212222240006
-### AIM: 
+### REGISTER NUMBER : 212222240069
 To write a program to simulate the process of seek behavior in Unity 
 ### Algorithm:
 1. Create a New Unity Project by Open the  Unity Hub and create a new 3D Project,Name the project (e.g., SeekBehaviorDemo).
