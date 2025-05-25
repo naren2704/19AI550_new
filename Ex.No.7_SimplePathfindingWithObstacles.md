@@ -1,5 +1,4 @@
-# Ex.No: 7  Implementation of Simple Pathfinding with Obstacles
-### DATE:                                                                            
+# Ex.No: 7  Implementation of Simple Pathfinding with Obstacles                                                                 
 ### REGISTER NUMBER : 212222240069
 ### AIM: 
 To write a program to pathfinding using AI navigation 
